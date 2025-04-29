@@ -1,0 +1,4 @@
+<script>start("/Users/marwa/Lektion3/drizzle/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("meta","meta",1,128,"128 B",1745927615,"29.04.2025, 13.53.35");</script>
+<script>addRow("0000_uneven_yellowjacket.sql","0000_uneven_yellowjacket.sql",0,167,"167 B",1745927541,"29.04.2025, 13.52.21");</script>
